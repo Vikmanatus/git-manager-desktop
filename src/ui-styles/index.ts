@@ -1,1 +1,4 @@
-export {};
+
+export const TEST="Hello"
+export {
+}
